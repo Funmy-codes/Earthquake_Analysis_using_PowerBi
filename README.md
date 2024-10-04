@@ -2,14 +2,15 @@
 
 This project provides a comprehensive analysis of global earthquake data using Power BI. The data includes information on the magnitude, depth, and distribution of earthquakes by continent, country, and region. The aim is to help users explore patterns and trends in seismic activities worldwide.
 
-
 ## Dataset Information
+
 The dataset contains the following key attributes:
-Magnitude by Continent: Visualization of earthquake magnitudes across different continents.
-Depth Analysis: Breakdown of earthquake depth by location, continent, and title (specific events).
-Monthly Earthquake Trends: Insights into the monthly distribution of earthquakes over time.
-Estimated Intensity by Continent: Estimation of earthquake intensity by continent.
-Gap by Magnitude Type: Analysis of gaps in earthquake data based on magnitude types.
+-   Magnitude by Continent: Visualization of earthquake magnitudes across different continents.
+-   Depth Analysis: Breakdown of earthquake depth by location, continent, and title (specific events).
+-   Monthly Earthquake Trends: Insights into the monthly distribution of earthquakes over time.
+-   Estimated Intensity by Continent: Estimation of earthquake intensity by continent.
+-   Gap by Magnitude Type: Analysis of gaps in earthquake data based on magnitude types.
+   
 ## Visualizations Included
 The PDF file contains several visualizations that provide a comprehensive overview of the Earthquake_Analysis pandemic:
 
