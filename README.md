@@ -1,4 +1,3 @@
-
 # Earthquake Data Visualizations 📊
 
 This project provides a comprehensive analysis of global earthquake data using Power BI. The data includes information on the magnitude, depth, and distribution of earthquakes by continent, country, and region. The aim is to help users explore patterns and trends in seismic activities worldwide.
