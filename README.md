@@ -12,13 +12,14 @@ The dataset contains the following key attributes:
 -   Gap by Magnitude Type: Analysis of gaps in earthquake data based on magnitude types.
    
 ## Visualizations Included
-The PDF file contains several visualizations that provide a comprehensive overview of the Earthquake_Analysis pandemic:
 
-1. *Global Overview:*
-   - Total confirmed cases, total active cases, total recovered, and total deaths for all regions globally.
-   
-2. *USA-specific Overview:*
-   - Focused analysis on the spread, impact, and trends of Earthquake_Analysis in the USA.
+The project includes the following visualizations:
+
+1. Magnitude by Continent: Displays earthquake magnitudes across continents like Asia, South America, and North America.
+2. Distribution by Country: Shows earthquake occurrences across different countries such as Afghanistan, Algeria, and Antarctica.
+3. Sum of Depth by Location: Highlights the depth of earthquakes in different regions like Fiji, Okhotsk, and Levu.
+4. Magnitude and Depth over Time: Visualizes trends over the years, showing how magnitudes and depths have changed from 2010 to 2020.
+5. Gap by Magnitude Type: A detailed look at the different types of earthquake magnitudes (mww, mwc, mwb, etc.).
    
 ## Usage
 The visualizations in this repository can be used to:
