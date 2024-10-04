@@ -23,12 +23,9 @@ The project includes the following visualizations:
    
 ## Usage
 The visualizations in this repository can be used to:
-- Understand the global and regional trends of Earthquake_Analysis.
-- Analyze the differences in cases, recoveries, and fatalities across countries and regions.
-- Gain insights into how different regions were impacted and the effectiveness of recovery efforts.
+
+-   Explore different reports to visualize the trends and statistics on global earthquakes.
+-   Customize the filters by continent, country, and magnitude type to explore specific data.
 
 ## How to View
 You can view the visualizations by downloading the PDF file from this repository and opening it with any standard PDF viewer.
-
-## Dataset Source
-The data used for these visualizations were sourced from the [World Health Organization (WHO)](https://www.who.int/), with updates from various global health agencies.
