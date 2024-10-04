@@ -5,15 +5,11 @@ This project provides a comprehensive analysis of global earthquake data using P
 
 ## Dataset Information
 The dataset contains the following key attributes:
-- *Country/Region*: The country or region the data belongs to.
-- *Confirmed Cases*: Total number of confirmed Earthquake_Analysis cases.
-- *Deaths*: Total number of deaths due to Earthquake_Analysis.
-- *Recovered*: Total number of recoveries from Earthquake_Analysis.
-- *Active Cases*: Number of ongoing cases.
-- *New Cases*: Daily new confirmed cases.
-- *New Deaths*: Daily new deaths reported.
-- *WHO Region*: WHO classification of the region.
-
+Magnitude by Continent: Visualization of earthquake magnitudes across different continents.
+Depth Analysis: Breakdown of earthquake depth by location, continent, and title (specific events).
+Monthly Earthquake Trends: Insights into the monthly distribution of earthquakes over time.
+Estimated Intensity by Continent: Estimation of earthquake intensity by continent.
+Gap by Magnitude Type: Analysis of gaps in earthquake data based on magnitude types.
 ## Visualizations Included
 The PDF file contains several visualizations that provide a comprehensive overview of the Earthquake_Analysis pandemic:
 
